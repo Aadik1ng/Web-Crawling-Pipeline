@@ -1,0 +1,44 @@
+2025-04-28 19:53:03,230 - main - DEBUG - Memory usage: {'rss': 195.77734375, 'vms': 1116.75, 'percent': 1.2171142500160885}
+2025-04-28 19:53:03,230 - main - INFO - Starting website crawling
+2025-04-28 19:53:59,102 - main - DEBUG - Memory usage: {'rss': 278.8203125, 'vms': 1207.26171875, 'percent': 1.7333781786876907}
+2025-04-28 19:53:59,102 - main - INFO - Starting news API fetching
+2025-04-28 19:54:05,301 - main - DEBUG - Memory usage: {'rss': 195.8671875, 'vms': 1116.76171875, 'percent': 1.2176727932382272}
+2025-04-28 19:54:05,301 - main - INFO - Starting website crawling
+2025-04-28 19:54:58,761 - main - DEBUG - Memory usage: {'rss': 278.26171875, 'vms': 1206.55078125, 'percent': 1.7299054969152632}
+2025-04-28 19:54:58,761 - main - INFO - Starting news API fetching
+2025-04-28 19:55:20,550 - main - DEBUG - Memory usage: {'rss': 195.796875, 'vms': 1116.71875, 'percent': 1.2172356724556839}
+2025-04-28 19:55:20,550 - main - INFO - Starting website crawling
+2025-04-28 19:58:32,779 - main - DEBUG - Memory usage: {'rss': 195.9921875, 'vms': 1116.953125, 'percent': 1.2184498968516375}
+2025-04-28 19:58:32,779 - main - INFO - Starting website crawling
+2025-04-28 20:00:48,168 - main - DEBUG - Memory usage: {'rss': 195.609375, 'vms': 1116.578125, 'percent': 1.2160943015234873}
+2025-04-28 20:00:48,168 - main - INFO - Starting website crawling
+2025-04-28 20:10:56,353 - main - DEBUG - Memory usage: {'rss': 282.10546875, 'vms': 1210.73046875, 'percent': 1.7538014330276321}
+2025-04-28 20:10:56,353 - main - INFO - Starting news API fetching
+2025-04-28 20:20:30,066 - main - DEBUG - Memory usage: {'rss': 195.72265625, 'vms': 1116.78515625, 'percent': 1.2167742671852215}
+2025-04-28 20:20:30,067 - main - INFO - Starting website crawling
+2025-04-28 20:20:41,542 - main - DEBUG - Memory usage: {'rss': 195.55859375, 'vms': 1116.47265625, 'percent': 1.2157543186926203}
+2025-04-28 20:20:41,543 - main - INFO - Starting website crawling
+2025-04-28 20:21:41,857 - main - DEBUG - Memory usage: {'rss': 195.66015625, 'vms': 1116.54296875, 'percent': 1.2163857153785163}
+2025-04-28 20:21:41,857 - main - INFO - Starting website crawling
+2025-04-28 20:24:32,582 - main - DEBUG - Memory usage: {'rss': 195.36328125, 'vms': 1116.24609375, 'percent': 1.2145400942966667}
+2025-04-28 20:24:32,582 - main - INFO - Starting website crawling
+2025-04-28 20:24:59,756 - main - DEBUG - Memory usage: {'rss': 195.6171875, 'vms': 1116.90625, 'percent': 1.2161185860114065}
+2025-04-28 20:24:59,756 - main - INFO - Starting website crawling
+2025-04-28 20:26:16,505 - main - DEBUG - Memory usage: {'rss': 195.59765625, 'vms': 1116.5078125, 'percent': 1.215997163571811}
+2025-04-28 20:26:16,505 - main - INFO - Starting website crawling
+2025-04-28 20:26:20,812 - main - DEBUG - Memory usage: {'rss': 241.03515625, 'vms': 1174.34765625, 'percent': 1.4984743270464842}
+2025-04-28 20:26:20,812 - main - INFO - Starting news API fetching
+2025-04-28 20:26:46,464 - main - DEBUG - Memory usage: {'rss': 195.8515625, 'vms': 1117.078125, 'percent': 1.2175756552865509}
+2025-04-28 20:26:46,465 - main - INFO - Starting website crawling
+2025-04-28 20:26:50,782 - main - DEBUG - Memory usage: {'rss': 241.84765625, 'vms': 1175.60546875, 'percent': 1.5035255005336516}
+2025-04-28 20:26:50,782 - main - INFO - Starting news API fetching
+2025-04-28 20:28:04,875 - main - DEBUG - Memory usage: {'rss': 195.7578125, 'vms': 1116.68359375, 'percent': 1.2169928275764932}
+2025-04-28 20:28:04,875 - main - INFO - Starting website crawling
+2025-04-28 20:29:35,969 - main - DEBUG - Memory usage: {'rss': 196.28125, 'vms': 1117.28125, 'percent': 1.220246948957649}
+2025-04-28 20:29:35,969 - main - INFO - Starting website crawling
+2025-04-28 20:35:03,553 - main - DEBUG - Memory usage: {'rss': 328.29296875, 'vms': 1257.26953125, 'percent': 2.0409412181827675}
+2025-04-28 20:35:03,553 - main - INFO - Starting news API fetching
+2025-04-28 20:37:17,110 - main - DEBUG - Memory usage: {'rss': 195.71484375, 'vms': 1116.61328125, 'percent': 1.2167256982093833}
+2025-04-28 20:37:17,111 - main - INFO - Starting website crawling
+2025-04-28 20:42:08,444 - main - DEBUG - Memory usage: {'rss': 312.80078125, 'vms': 1242.94140625, 'percent': 1.9446289390957185}
+2025-04-28 20:42:08,444 - main - INFO - Starting news API fetching
