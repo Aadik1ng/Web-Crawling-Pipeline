@@ -1,6 +1,6 @@
 from typing import Dict, Any
 
-import config
+import src.utils.config as config
 from src.crawlers.base_crawler import BaseCrawler
 from src.crawlers.static.static_crawler import StaticCrawler
 from src.crawlers.dynamic.dynamic_crawler import DynamicCrawler

@@ -4,7 +4,7 @@ from typing import Dict, Any, List, Optional
 import requests
 import feedparser
 
-import config
+import src.utils.config as config
 
 
 class NewsApiClient:

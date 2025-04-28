@@ -12,8 +12,7 @@ import json
 from logging.handlers import RotatingFileHandler
 import traceback
 import threading
-
-import config
+import src.utils.config as config
 
 
 class CrawlerLogger:

@@ -7,7 +7,7 @@ from abc import ABC, abstractmethod
 from datetime import datetime
 from typing import Dict, List, Optional, Any, Union
 
-import config
+import src.utils.config as config
 
 
 class BaseCrawler(ABC):

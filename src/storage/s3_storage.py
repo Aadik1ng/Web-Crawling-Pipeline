@@ -11,7 +11,7 @@ import pyarrow.parquet as pq
 import gc
 import logging
 
-import config
+import src.utils.config as config
 
 
 class S3Storage:
