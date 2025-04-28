@@ -1,0 +1,134 @@
+2025-04-28 19:53:03,329 - main_crawler - DEBUG - Memory usage: {'rss': 206.5234375, 'vms': 1127.2578125, 'percent': 1.283920876281462}
+2025-04-28 19:53:03,329 - main_crawler - INFO - Starting crawl for gnosisfreight
+2025-04-28 19:53:07,940 - main_crawler - DEBUG - Memory usage: {'rss': 262.8125, 'vms': 1194.07421875, 'percent': 1.6338603471953237}
+2025-04-28 19:53:07,940 - main_crawler - ERROR - Error crawling gnosisfreight: max_df corresponds to < documents than min_df
+2025-04-28 19:53:07,941 - main_crawler - DEBUG - Memory usage: {'rss': 262.8125, 'vms': 1194.07421875, 'percent': 1.6338603471953237}
+2025-04-28 19:53:07,941 - main_crawler - INFO - Starting crawl for logisticsoflogistics
+2025-04-28 19:53:12,674 - main_crawler - DEBUG - Memory usage: {'rss': 274.6796875, 'vms': 1207.13671875, 'percent': 1.7076366214934717}
+2025-04-28 19:53:12,675 - main_crawler - ERROR - Error crawling logisticsoflogistics: max_df corresponds to < documents than min_df
+2025-04-28 19:53:12,677 - main_crawler - DEBUG - Memory usage: {'rss': 273.3125, 'vms': 1206.01171875, 'percent': 1.6991370507217958}
+2025-04-28 19:53:12,677 - main_crawler - INFO - Starting crawl for freightwaves
+2025-04-28 19:53:21,974 - main_crawler - DEBUG - Memory usage: {'rss': 274.62109375, 'vms': 1206.04296875, 'percent': 1.7072723541746857}
+2025-04-28 19:53:21,974 - main_crawler - ERROR - Error crawling freightwaves: max_df corresponds to < documents than min_df
+2025-04-28 19:53:21,976 - main_crawler - DEBUG - Memory usage: {'rss': 274.62109375, 'vms': 1206.04296875, 'percent': 1.7072723541746857}
+2025-04-28 19:53:21,976 - main_crawler - INFO - Starting crawl for leadiq
+2025-04-28 19:53:34,218 - main_crawler - DEBUG - Memory usage: {'rss': 280.95703125, 'vms': 1214.21875, 'percent': 1.7466617935794242}
+2025-04-28 19:53:34,218 - main_crawler - ERROR - Error crawling leadiq: max_df corresponds to < documents than min_df
+2025-04-28 19:53:34,220 - main_crawler - DEBUG - Memory usage: {'rss': 280.95703125, 'vms': 1214.27734375, 'percent': 1.7466617935794242}
+2025-04-28 19:53:34,220 - main_crawler - INFO - Starting crawl for g2
+2025-04-28 19:53:43,981 - main_crawler - DEBUG - Memory usage: {'rss': 278.41015625, 'vms': 1211.38671875, 'percent': 1.7308283074561879}
+2025-04-28 19:53:43,981 - main_crawler - ERROR - Error crawling g2: max_df corresponds to < documents than min_df
+2025-04-28 19:53:43,983 - main_crawler - DEBUG - Memory usage: {'rss': 278.41015625, 'vms': 1211.43359375, 'percent': 1.7308283074561879}
+2025-04-28 19:53:43,984 - main_crawler - INFO - Starting crawl for marketsandmarkets
+2025-04-28 19:53:59,096 - main_crawler - DEBUG - Memory usage: {'rss': 296.2734375, 'vms': 1224.7421875, 'percent': 1.8418812707101149}
+2025-04-28 19:53:59,096 - main_crawler - ERROR - Error crawling marketsandmarkets: max_df corresponds to < documents than min_df
+2025-04-28 19:54:05,399 - main_crawler - DEBUG - Memory usage: {'rss': 206.88671875, 'vms': 1127.5546875, 'percent': 1.286179333657936}
+2025-04-28 19:54:05,399 - main_crawler - INFO - Starting crawl for gnosisfreight
+2025-04-28 19:54:10,226 - main_crawler - DEBUG - Memory usage: {'rss': 262.24609375, 'vms': 1192.84765625, 'percent': 1.630339096447058}
+2025-04-28 19:54:10,226 - main_crawler - ERROR - Error crawling gnosisfreight: max_df corresponds to < documents than min_df
+2025-04-28 19:54:10,227 - main_crawler - DEBUG - Memory usage: {'rss': 262.24609375, 'vms': 1192.84765625, 'percent': 1.630339096447058}
+2025-04-28 19:54:10,227 - main_crawler - INFO - Starting crawl for logisticsoflogistics
+2025-04-28 19:54:15,162 - main_crawler - DEBUG - Memory usage: {'rss': 275.48828125, 'vms': 1207.03515625, 'percent': 1.71266351049272}
+2025-04-28 19:54:15,162 - main_crawler - ERROR - Error crawling logisticsoflogistics: max_df corresponds to < documents than min_df
+2025-04-28 19:54:15,164 - main_crawler - DEBUG - Memory usage: {'rss': 274.12109375, 'vms': 1205.8046875, 'percent': 1.7041639397210442}
+2025-04-28 19:54:15,164 - main_crawler - INFO - Starting crawl for freightwaves
+2025-04-28 19:54:24,208 - main_crawler - DEBUG - Memory usage: {'rss': 274.1015625, 'vms': 1206.02734375, 'percent': 1.7040425172814486}
+2025-04-28 19:54:24,208 - main_crawler - ERROR - Error crawling freightwaves: max_df corresponds to < documents than min_df
+2025-04-28 19:54:24,210 - main_crawler - DEBUG - Memory usage: {'rss': 274.1015625, 'vms': 1206.02734375, 'percent': 1.7040425172814486}
+2025-04-28 19:54:24,210 - main_crawler - INFO - Starting crawl for leadiq
+2025-04-28 19:54:34,998 - main_crawler - DEBUG - Memory usage: {'rss': 280.77734375, 'vms': 1213.65234375, 'percent': 1.7455447071351469}
+2025-04-28 19:54:34,998 - main_crawler - ERROR - Error crawling leadiq: max_df corresponds to < documents than min_df
+2025-04-28 19:54:35,000 - main_crawler - DEBUG - Memory usage: {'rss': 280.77734375, 'vms': 1214.45703125, 'percent': 1.7455447071351469}
+2025-04-28 19:54:35,000 - main_crawler - INFO - Starting crawl for g2
+2025-04-28 19:54:44,184 - main_crawler - DEBUG - Memory usage: {'rss': 277.55078125, 'vms': 1209.32421875, 'percent': 1.7254857201139913}
+2025-04-28 19:54:44,184 - main_crawler - ERROR - Error crawling g2: max_df corresponds to < documents than min_df
+2025-04-28 19:54:44,186 - main_crawler - DEBUG - Memory usage: {'rss': 277.55078125, 'vms': 1209.32421875, 'percent': 1.7254857201139913}
+2025-04-28 19:54:44,186 - main_crawler - INFO - Starting crawl for marketsandmarkets
+2025-04-28 19:54:58,755 - main_crawler - DEBUG - Memory usage: {'rss': 297.4609375, 'vms': 1225.796875, 'percent': 1.8492637550375133}
+2025-04-28 19:54:58,755 - main_crawler - ERROR - Error crawling marketsandmarkets: max_df corresponds to < documents than min_df
+2025-04-28 19:55:20,653 - main_crawler - DEBUG - Memory usage: {'rss': 206.4375, 'vms': 1126.6953125, 'percent': 1.2833866175472424}
+2025-04-28 19:55:20,654 - main_crawler - INFO - Starting crawl for gnosisfreight
+2025-04-28 19:57:35,704 - main_crawler - DEBUG - Memory usage: {'rss': 295.46875, 'vms': 1225.0625, 'percent': 1.8368786661987855}
+2025-04-28 19:57:35,704 - main_crawler - ERROR - Error crawling gnosisfreight: 'NoneType' object is not iterable
+2025-04-28 19:57:35,705 - main_crawler - DEBUG - Memory usage: {'rss': 295.46875, 'vms': 1225.0625, 'percent': 1.8368786661987855}
+2025-04-28 19:57:35,705 - main_crawler - INFO - Starting crawl for logisticsoflogistics
+2025-04-28 19:58:32,882 - main_crawler - DEBUG - Memory usage: {'rss': 206.78125, 'vms': 1127.453125, 'percent': 1.285523652484121}
+2025-04-28 19:58:32,882 - main_crawler - INFO - Starting crawl for gnosisfreight
+2025-04-28 20:00:48,260 - main_crawler - DEBUG - Memory usage: {'rss': 206.6953125, 'vms': 1127.37109375, 'percent': 1.2849893937499013}
+2025-04-28 20:00:48,261 - main_crawler - INFO - Starting crawl for gnosisfreight
+2025-04-28 20:03:01,800 - main_crawler - DEBUG - Memory usage: {'rss': 294.41015625, 'vms': 1223.41796875, 'percent': 1.8302975699727164}
+2025-04-28 20:03:01,800 - main_crawler - ERROR - Error crawling gnosisfreight: 'StaticCrawler' object has no attribute 'metrics'
+2025-04-28 20:03:01,803 - main_crawler - DEBUG - Memory usage: {'rss': 294.41015625, 'vms': 1223.86328125, 'percent': 1.8302975699727164}
+2025-04-28 20:03:01,803 - main_crawler - INFO - Starting crawl for logisticsoflogistics
+2025-04-28 20:08:59,120 - main_crawler - DEBUG - Memory usage: {'rss': 321.28125, 'vms': 1252.36328125, 'percent': 1.997350562368029}
+2025-04-28 20:08:59,120 - main_crawler - ERROR - Error crawling logisticsoflogistics: An error occurred (EntityTooSmall) when calling the CompleteMultipartUpload operation: Your proposed upload is smaller than the minimum allowed size
+2025-04-28 20:08:59,120 - main_crawler - DEBUG - Memory usage: {'rss': 321.28125, 'vms': 1252.36328125, 'percent': 1.997350562368029}
+2025-04-28 20:08:59,121 - main_crawler - INFO - Starting crawl for freightwaves
+2025-04-28 20:09:13,179 - main_crawler - DEBUG - Memory usage: {'rss': 296.87109375, 'vms': 1226.48046875, 'percent': 1.8455967973617333}
+2025-04-28 20:09:13,179 - main_crawler - ERROR - Error crawling freightwaves: 'DynamicCrawler' object has no attribute 'metrics'
+2025-04-28 20:09:13,181 - main_crawler - DEBUG - Memory usage: {'rss': 296.87109375, 'vms': 1226.48046875, 'percent': 1.8455967973617333}
+2025-04-28 20:09:13,182 - main_crawler - INFO - Starting crawl for leadiq
+2025-04-28 20:10:30,947 - main_crawler - DEBUG - Memory usage: {'rss': 298.93359375, 'vms': 1228.21875, 'percent': 1.8584190069830044}
+2025-04-28 20:10:30,947 - main_crawler - ERROR - Error crawling leadiq: 'DynamicCrawler' object has no attribute 'metrics'
+2025-04-28 20:10:30,948 - main_crawler - DEBUG - Memory usage: {'rss': 298.93359375, 'vms': 1228.21875, 'percent': 1.8584190069830044}
+2025-04-28 20:10:30,948 - main_crawler - INFO - Starting crawl for g2
+2025-04-28 20:10:40,832 - main_crawler - DEBUG - Memory usage: {'rss': 294.9765625, 'vms': 1224.7890625, 'percent': 1.833818820720982}
+2025-04-28 20:10:40,833 - main_crawler - ERROR - Error crawling g2: 'DynamicCrawler' object has no attribute 'metrics'
+2025-04-28 20:10:40,836 - main_crawler - DEBUG - Memory usage: {'rss': 294.9765625, 'vms': 1224.83203125, 'percent': 1.833818820720982}
+2025-04-28 20:10:40,838 - main_crawler - INFO - Starting crawl for marketsandmarkets
+2025-04-28 20:10:56,346 - main_crawler - DEBUG - Memory usage: {'rss': 306.9140625, 'vms': 1234.87890625, 'percent': 1.9080322158016736}
+2025-04-28 20:10:56,346 - main_crawler - ERROR - Error crawling marketsandmarkets: 'DynamicCrawler' object has no attribute 'metrics'
+2025-04-28 20:26:17,180 - main_crawler - DEBUG - Memory usage: {'rss': 209.703125, 'vms': 1127.8828125, 'percent': 1.3036884494475887}
+2025-04-28 20:26:17,180 - main_crawler - INFO - Starting crawl for example
+2025-04-28 20:26:20,808 - main_crawler - DEBUG - Memory usage: {'rss': 256.26171875, 'vms': 1189.578125, 'percent': 1.593135260955036}
+2025-04-28 20:26:20,808 - main_crawler - ERROR - Error crawling example: 'NoneType' object is not iterable
+2025-04-28 20:26:47,115 - main_crawler - DEBUG - Memory usage: {'rss': 209.24609375, 'vms': 1127.97265625, 'percent': 1.3008471643610569}
+2025-04-28 20:26:47,115 - main_crawler - INFO - Starting crawl for example
+2025-04-28 20:26:50,778 - main_crawler - DEBUG - Memory usage: {'rss': 257.77734375, 'vms': 1191.23828125, 'percent': 1.6025576422676369}
+2025-04-28 20:26:50,778 - main_crawler - INFO - Successfully crawled example
+2025-04-28 20:28:05,576 - main_crawler - DEBUG - Memory usage: {'rss': 209.375, 'vms': 1127.45703125, 'percent': 1.3016485524623862}
+2025-04-28 20:28:05,576 - main_crawler - INFO - Starting crawl for wikipedia
+2025-04-28 20:28:09,259 - main_crawler - DEBUG - Memory usage: {'rss': 263.6484375, 'vms': 1196.23046875, 'percent': 1.639057227610006}
+2025-04-28 20:28:09,259 - main_crawler - INFO - Successfully crawled wikipedia
+2025-04-28 20:28:09,260 - main_crawler - DEBUG - Memory usage: {'rss': 263.6484375, 'vms': 1196.23046875, 'percent': 1.639057227610006}
+2025-04-28 20:28:09,260 - main_crawler - INFO - Starting crawl for openstreetmap
+2025-04-28 20:29:36,643 - main_crawler - DEBUG - Memory usage: {'rss': 209.78515625, 'vms': 1127.9765625, 'percent': 1.3041984236938893}
+2025-04-28 20:29:36,643 - main_crawler - INFO - Starting crawl for wikipedia
+2025-04-28 20:29:40,161 - main_crawler - DEBUG - Memory usage: {'rss': 265.6015625, 'vms': 1198.42578125, 'percent': 1.6511994715695428}
+2025-04-28 20:29:40,161 - main_crawler - INFO - Successfully crawled wikipedia
+2025-04-28 20:29:40,162 - main_crawler - DEBUG - Memory usage: {'rss': 265.6015625, 'vms': 1198.42578125, 'percent': 1.6511994715695428}
+2025-04-28 20:29:40,163 - main_crawler - INFO - Starting crawl for openstreetmap
+2025-04-28 20:31:23,670 - main_crawler - DEBUG - Memory usage: {'rss': 284.85546875, 'vms': 1213.37109375, 'percent': 1.7708977125226604}
+2025-04-28 20:31:23,670 - main_crawler - ERROR - Error crawling openstreetmap: An error occurred (EntityTooSmall) when calling the CompleteMultipartUpload operation: Your proposed upload is smaller than the minimum allowed size
+2025-04-28 20:31:23,670 - main_crawler - DEBUG - Memory usage: {'rss': 284.85546875, 'vms': 1213.37109375, 'percent': 1.7708977125226604}
+2025-04-28 20:31:23,671 - main_crawler - INFO - Starting crawl for project_gutenberg
+2025-04-28 20:33:00,544 - main_crawler - DEBUG - Memory usage: {'rss': 299.5234375, 'vms': 1228.18359375, 'percent': 1.8620859646587846}
+2025-04-28 20:33:00,544 - main_crawler - ERROR - Error crawling project_gutenberg: An error occurred (EntityTooSmall) when calling the CompleteMultipartUpload operation: Your proposed upload is smaller than the minimum allowed size
+2025-04-28 20:33:00,544 - main_crawler - DEBUG - Memory usage: {'rss': 299.5234375, 'vms': 1228.18359375, 'percent': 1.8620859646587846}
+2025-04-28 20:33:00,544 - main_crawler - INFO - Starting crawl for freecodecamp
+2025-04-28 20:33:04,530 - main_crawler - DEBUG - Memory usage: {'rss': 295.48046875, 'vms': 1224.671875, 'percent': 1.8369515196625428}
+2025-04-28 20:33:04,530 - main_crawler - INFO - Successfully crawled freecodecamp
+2025-04-28 20:33:04,532 - main_crawler - DEBUG - Memory usage: {'rss': 295.48046875, 'vms': 1224.671875, 'percent': 1.8369515196625428}
+2025-04-28 20:33:04,533 - main_crawler - INFO - Starting crawl for mozilla_mdns
+2025-04-28 20:35:03,552 - main_crawler - DEBUG - Memory usage: {'rss': 328.29296875, 'vms': 1257.26953125, 'percent': 2.0409412181827675}
+2025-04-28 20:35:03,552 - main_crawler - ERROR - Error crawling mozilla_mdns: An error occurred (EntityTooSmall) when calling the CompleteMultipartUpload operation: Your proposed upload is smaller than the minimum allowed size
+2025-04-28 20:37:17,789 - main_crawler - DEBUG - Memory usage: {'rss': 209.81640625, 'vms': 1127.8828125, 'percent': 1.304392699597242}
+2025-04-28 20:37:17,790 - main_crawler - INFO - Starting crawl for wikipedia
+2025-04-28 20:37:21,252 - main_crawler - DEBUG - Memory usage: {'rss': 264.9296875, 'vms': 1195.4453125, 'percent': 1.6470225396474623}
+2025-04-28 20:37:21,252 - main_crawler - INFO - Successfully crawled wikipedia
+2025-04-28 20:37:21,252 - main_crawler - DEBUG - Memory usage: {'rss': 264.9296875, 'vms': 1195.4453125, 'percent': 1.6470225396474623}
+2025-04-28 20:37:21,253 - main_crawler - INFO - Starting crawl for openstreetmap
+2025-04-28 20:39:02,966 - main_crawler - DEBUG - Memory usage: {'rss': 283.75, 'vms': 1212.7421875, 'percent': 1.7640252024415624}
+2025-04-28 20:39:02,966 - main_crawler - INFO - Successfully crawled openstreetmap
+2025-04-28 20:39:02,967 - main_crawler - DEBUG - Memory usage: {'rss': 283.75, 'vms': 1212.7421875, 'percent': 1.7640252024415624}
+2025-04-28 20:39:02,967 - main_crawler - INFO - Starting crawl for project_gutenberg
+2025-04-28 20:40:36,280 - main_crawler - DEBUG - Memory usage: {'rss': 299.171875, 'vms': 1228.0703125, 'percent': 1.8599003607460682}
+2025-04-28 20:40:36,280 - main_crawler - INFO - Successfully crawled project_gutenberg
+2025-04-28 20:40:36,281 - main_crawler - DEBUG - Memory usage: {'rss': 299.171875, 'vms': 1228.0703125, 'percent': 1.8599003607460682}
+2025-04-28 20:40:36,281 - main_crawler - INFO - Starting crawl for freecodecamp
+2025-04-28 20:40:39,924 - main_crawler - DEBUG - Memory usage: {'rss': 296.0703125, 'vms': 1225.234375, 'percent': 1.8406184773383232}
+2025-04-28 20:40:39,924 - main_crawler - INFO - Successfully crawled freecodecamp
+2025-04-28 20:40:39,925 - main_crawler - DEBUG - Memory usage: {'rss': 296.0703125, 'vms': 1225.234375, 'percent': 1.8406184773383232}
+2025-04-28 20:40:39,925 - main_crawler - INFO - Starting crawl for mozilla_mdns
+2025-04-28 20:42:08,438 - main_crawler - DEBUG - Memory usage: {'rss': 329.14453125, 'vms': 1258.25390625, 'percent': 2.046235236549126}
+2025-04-28 20:42:08,439 - main_crawler - INFO - Successfully crawled mozilla_mdns
