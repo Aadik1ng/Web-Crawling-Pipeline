@@ -1,0 +1,26 @@
+2025-04-28 19:53:59,103 - main_news - DEBUG - Memory usage: {'rss': 278.8203125, 'vms': 1207.26171875, 'percent': 1.7333781786876907}
+2025-04-28 19:53:59,103 - main_news - INFO - Starting news API fetch
+2025-04-28 19:54:58,766 - main_news - DEBUG - Memory usage: {'rss': 278.26171875, 'vms': 1206.55078125, 'percent': 1.7299054969152632}
+2025-04-28 19:54:58,766 - main_news - INFO - Starting news API fetch
+2025-04-28 19:55:04,630 - main_news - DEBUG - Memory usage: {'rss': 280.2109375, 'vms': 1208.55859375, 'percent': 1.7420234563868808}
+2025-04-28 19:55:04,630 - main_news - INFO - Successfully fetched 20 news articles
+2025-04-28 20:10:56,354 - main_news - DEBUG - Memory usage: {'rss': 282.10546875, 'vms': 1210.73046875, 'percent': 1.7538014330276321}
+2025-04-28 20:10:56,358 - main_news - INFO - Starting news API fetch
+2025-04-28 20:11:01,048 - main_news - DEBUG - Memory usage: {'rss': 283.7109375, 'vms': 1212.19140625, 'percent': 1.7637823575623717}
+2025-04-28 20:11:01,048 - main_news - INFO - Successfully fetched 20 news articles
+2025-04-28 20:26:20,813 - main_news - DEBUG - Memory usage: {'rss': 241.03515625, 'vms': 1174.34765625, 'percent': 1.4984743270464842}
+2025-04-28 20:26:20,813 - main_news - INFO - Starting news API fetch
+2025-04-28 20:26:24,950 - main_news - DEBUG - Memory usage: {'rss': 243.4609375, 'vms': 1176.7890625, 'percent': 1.5135549940442294}
+2025-04-28 20:26:24,950 - main_news - INFO - Successfully fetched 20 news articles
+2025-04-28 20:26:50,783 - main_news - DEBUG - Memory usage: {'rss': 241.84765625, 'vms': 1175.60546875, 'percent': 1.5035255005336516}
+2025-04-28 20:26:50,783 - main_news - INFO - Starting news API fetch
+2025-04-28 20:26:55,758 - main_news - DEBUG - Memory usage: {'rss': 243.69140625, 'vms': 1177.25390625, 'percent': 1.5149877788314547}
+2025-04-28 20:26:55,759 - main_news - INFO - Successfully fetched 20 news articles
+2025-04-28 20:35:03,553 - main_news - DEBUG - Memory usage: {'rss': 328.29296875, 'vms': 1257.26953125, 'percent': 2.0409412181827675}
+2025-04-28 20:35:03,554 - main_news - INFO - Starting news API fetch
+2025-04-28 20:35:08,563 - main_news - DEBUG - Memory usage: {'rss': 314.7265625, 'vms': 1243.73828125, 'percent': 1.9566011916398223}
+2025-04-28 20:35:08,564 - main_news - INFO - Successfully fetched 20 news articles
+2025-04-28 20:42:08,445 - main_news - DEBUG - Memory usage: {'rss': 312.80078125, 'vms': 1242.94140625, 'percent': 1.9446289390957185}
+2025-04-28 20:42:08,445 - main_news - INFO - Starting news API fetch
+2025-04-28 20:42:13,333 - main_news - DEBUG - Memory usage: {'rss': 315.32421875, 'vms': 1245.06640625, 'percent': 1.9603167182914407}
+2025-04-28 20:42:13,333 - main_news - INFO - Successfully fetched 20 news articles
