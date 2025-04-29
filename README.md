@@ -24,8 +24,8 @@ A comprehensive web crawling system that crawls logistics/supply chain websites,
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
-   cd web-crawler
+   git clone https://github.com/Aadik1ng/Web-Crawling-Pipeline.git
+   cd Web-Crawling-Pipeline
    ```
 
 2. Install dependencies:
